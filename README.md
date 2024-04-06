@@ -54,7 +54,7 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 </a>
 
 
-## Information links!
+## Contact links!
 
 - 📫 <a href="https://www.linkedin.com/in/mesut-suhan-sisman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - 📫 <a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/-Kaggle-0072b1?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -75,3 +75,9 @@ Statistics :
 LLM Bootcamp : 
 
 <a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
+
+
+
+### :fire: My Stats : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharaffin&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
