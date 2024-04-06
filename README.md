@@ -18,8 +18,8 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 ## Tools I use
 
-<a href="https://www.python.org/static/img/python-logo.png">
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+<a href="YOUR_LINK_HERE">
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" />
 </a>
 
 
