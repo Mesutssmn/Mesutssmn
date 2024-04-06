@@ -24,6 +24,11 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 </a>
 
 
+<a href="https://www.r-project.org/">
+    <img src="https://www.r-project.org/Rlogo.png" alt="R Badge" width = 100px />
+</a>
+
+
 <a href="https://www.mysql.com">
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Badge" width = 100px />
 </a>
@@ -36,6 +41,11 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 <a href="https://pandas.pydata.org/docs/index.html">
     <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas Badge" width = 100px />
+</a>
+
+
+<a href="https://numpy.org/doc/stable/index.html">
+    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy Badge" width = 100px />
 </a>
 
 
