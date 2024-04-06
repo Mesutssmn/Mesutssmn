@@ -16,7 +16,7 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 🌱 I’m currently learning CNN, OpenCV, YOLO etc.
 
-## Tools I use
+## Tools
 
 
 <a href="https://www.python.org/">
@@ -81,4 +81,6 @@ LLM Bootcamp :
 ### 🚀 Status : 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mesutssmn&theme=light&bg_color=ADD8E6)](https://git.io/streak-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&layout=compact&theme=light&bg_color=ADD8E6)](https://github.com/anuraghazra/github-readme-stats) 
