@@ -19,11 +19,11 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 ## Tools I use
 
 <a href="https://www.python.org/">
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" width = 10px />
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" width = 100px />
 </a>
 
 <a href="https://www.mysql.com">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Badge" width = 10px />
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Badge" width = 100px />
 </a>
 
 <a href="https://www.tensorflow.org/?hl=en">
