@@ -78,6 +78,7 @@ LLM Bootcamp :
 
 
 
-### 🚀: Status : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mesutssmn&theme=bg_color=ADD8E6)](https://git.io/streak-stats)
+### 🚀 Status : 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mesutssmn&theme=light&bg_color=ADD8E6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&layout=compact&theme=light&bg_color=ADD8E6)](https://github.com/anuraghazra/github-readme-stats) 
