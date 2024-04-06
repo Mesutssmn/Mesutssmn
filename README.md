@@ -16,6 +16,11 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 🌱 I’m currently learning CNN, OpenCV, YOLO etc.
 
+## Tools I use
+
+<a href="https://www.python.org/static/img/python-logo.png">
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+</a>
 
 
 ## Information links!
@@ -30,7 +35,7 @@ Data Science :
 
 Machine Learning : 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearningAI-8C1515?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearning.AI-8C1515?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
 
 Statistics : 
 
