@@ -19,8 +19,7 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 I have some information links down there!
 
 - 📫 <a href="https://www.linkedin.com/in/mesut-suhan-sisman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 📫 <a href="https://www.linkedin.com/in/mesut-suhan-sisman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 📫 <a href="https://www.linkedin.com/in/mesut-suhan-sisman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 <a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/-Kaggle-0072b1?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 
 - 😄 Pronouns: ...
