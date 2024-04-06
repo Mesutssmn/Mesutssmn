@@ -20,12 +20,12 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 
 <a href="https://www.python.org/">
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" width = 100px />
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" width = 120px />
 </a>
 
 
 <a href="https://www.r-project.org/">
-    <img src="https://www.r-project.org/Rlogo.png" alt="R Badge" width = 100px />
+    <img src="https://www.r-project.org/Rlogo.png" alt="R Badge" width = 70px />
 </a>
 
 
