@@ -78,6 +78,6 @@ LLM Bootcamp :
 
 
 
-### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharaffin&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+### 🚀: Status : 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mesutssmn&theme=dark&bg_color=ADD8E6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats) 
