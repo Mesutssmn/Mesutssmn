@@ -18,10 +18,25 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 ## Tools I use
 
-<a href="YOUR_LINK_HERE">
+<a href="https://www.python.org/">
     <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" />
 </a>
 
+<a href="https://www.mysql.com">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Badge" />
+</a>
+
+<a href="https://www.tensorflow.org/?hl=en">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="TF Badge" />
+</a>
+
+<a href="https://pandas.pydata.org/docs/index.html">
+    <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas Badge" />
+</a>
+
+<a href="https://scikit-learn.org/stable/#">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Sciki-Learn Badge" />
+</a>
 
 ## Information links!
 
