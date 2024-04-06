@@ -26,7 +26,7 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 ## Certification
 Data Science : <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC"><img src="https://img.shields.io/badge/-IBM-0072b1?&style=for-the-badge&logo=IBM&logoColor=grey" /></a>
 
-Machine Learning : <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearningAI-0072b1?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
+Machine Learning : <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearningAI-8C1515?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
 
 Statistics : <a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-0072b1?&style=for-the-badge&logo=CU&logoColor=white" /></a>
 
