@@ -19,23 +19,23 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 ## Tools I use
 
 <a href="https://www.python.org/">
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" />
+    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" width = 10px />
 </a>
 
 <a href="https://www.mysql.com">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Badge" />
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Badge" width = 10px />
 </a>
 
 <a href="https://www.tensorflow.org/?hl=en">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="TF Badge" />
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="TF Badge" width = 10px />
 </a>
 
 <a href="https://pandas.pydata.org/docs/index.html">
-    <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas Badge" />
+    <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas Badge" width = 10px />
 </a>
 
 <a href="https://scikit-learn.org/stable/#">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Sciki-Learn Badge" />
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Sciki-Learn Badge" width = 10px />
 </a>
 
 ## Information links!
