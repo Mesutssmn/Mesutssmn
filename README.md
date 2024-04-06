@@ -28,9 +28,9 @@ Data Science : <a href="https://www.coursera.org/account/accomplishments/special
 
 Machine Learning : <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearningAI-8C1515?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
 
-Statistics : <a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-0072b1?&style=for-the-badge&logo=CU&logoColor=white" /></a>
+Statistics : <a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?&style=for-the-badge&logo=CU&logoColor=white" /></a>
 
-LLM Bootcamp : <a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-0072b1?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
+LLM Bootcamp : <a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC" style="background-color: 'black';" class="badge-link">
     <img src="https://img.shields.io/badge/-IBM-FFFFFF?&style=for-the-badge&logo=IBM&logoColor=grey" alt="IBM Badge" />
