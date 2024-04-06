@@ -1,4 +1,3 @@
-# Welcome to My World!
 
 👋 Hello, I'm Mesut Suhan Şişman
 
