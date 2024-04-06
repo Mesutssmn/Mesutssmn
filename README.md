@@ -10,7 +10,7 @@ Although I had no prior experience in this field, I was determined to learn and 
 As I continue to pursue my goals, I am eager to learn, to grow, and to contribute to the world in meaningful ways. I am excited about the future and all of the possibilities that lie ahead, and I look forward to making the most of every opportunity that comes my way.
 
 
-- 👀 I’m interested in Data Science and Deep Learning Science.
+- 👀 I’m interested in Data Science and Deep Learning.
 
 - 🌱 I’m currently learning OpenCV, YOLO etc.
 
