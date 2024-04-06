@@ -35,7 +35,7 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 
 <a href="https://www.tensorflow.org/?hl=en">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="TF Badge" width = 100px />
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="TF Badge" width = 150px />
 </a>
 
 
