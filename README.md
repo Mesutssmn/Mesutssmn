@@ -24,10 +24,14 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 - 📫 <a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/-Kaggle-0072b1?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 ## Certification
-Data Science : <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC"><img src="https://img.shields.io/badge/-IBM-0072b1?&style=for-the-badge&logo=IBM&logoColor=grey" /></a>
+Data Science : 
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC"><img src="https://img.shields.io/badge/-IBM-0072b1?&style=for-the-badge&logo=IBM&logoColor=grey" /></a>
 
-Machine Learning : <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearningAI-8C1515?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
+Machine Learning : 
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearningAI-8C1515?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
 
-Statistics : <a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?&style=for-the-badge&logo=CU&logoColor=white" /></a>
+Statistics : 
+<a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?&style=for-the-badge&logo=CU&logoColor=white" /></a>
 
-LLM Bootcamp : <a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
+LLM Bootcamp : 
+<a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
