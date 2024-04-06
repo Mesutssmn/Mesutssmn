@@ -32,6 +32,6 @@ Statistics : <a href="https://www.coursera.org/account/accomplishments/specializ
 
 LLM Bootcamp : <a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-0072b1?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC" style="background-color: #0072b1;" class="badge-link">
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC" style="background-color: 'black';" class="badge-link">
     <img src="https://img.shields.io/badge/-IBM-FFFFFF?&style=for-the-badge&logo=linkedin&logoColor=grey" alt="IBM Badge" />
 </a>
