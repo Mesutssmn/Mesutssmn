@@ -1,6 +1,15 @@
+<div id="header" align="center">
+  <img src="https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg" width="500"/>
+</div>
+
 # Welcome to My World!
 
 👋 Hello, I'm Mesut Suhan Şişman
+
+
+
+
+
 
 ## About Me!
 
@@ -14,7 +23,15 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
 
 👀 I’m interested in Data Science and Deep Learning.
 
-🌱 I’m currently learning CNN, OpenCV, YOLO etc.
+🧠 I’m currently learning CNN, OpenCV, YOLO etc.
+
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" width="1200" />
+</div>
+
+
+
+
 
 ## Tools
 
@@ -53,13 +70,26 @@ As I continue to pursue my goals, I am eager to learn, to grow, and to contribut
     <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Sciki-Learn Badge" width = 100px />
 </a>
 
+------------------------------------------------------
+
 
 ## Contact links!
 
-- 📫 <a href="https://www.linkedin.com/in/mesut-suhan-sisman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-- 📫 <a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/-Kaggle-0072b1?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<div id="header" align="left">
+  <img src="https://media.istockphoto.com/id/1441307295/photo/customer-contact-us-service-with-mail-email-telephone-icons-on-the-circle-wooden-put-on-the.webp?b=1&s=170667a&w=0&k=20&c=KWhf3x3rS2k-vOkdQZpmqOAhv94-xcWfyQL_gk4xXL4=" 
+      width="210.5" />
+</div>
 
-## Certification
+
+
+<a href="https://www.linkedin.com/in/mesut-suhan-sisman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/-Kaggle-0072b1?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+
+
+
+
+
+## My Certificates
 Data Science : 
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC"><img src="https://img.shields.io/badge/-IBM-0072b1?&style=for-the-badge&logo=IBM&logoColor=grey" /></a>
@@ -75,6 +105,20 @@ Statistics :
 LLM Bootcamp : 
 
 <a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
+
+
+
+
+
+
+# Thank you for visiting!
+
+
+
+
+
+
+
 
 
 
