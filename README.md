@@ -25,19 +25,19 @@
 # My Certificates
 Data Science : 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC"><img src="https://img.shields.io/badge/-IBM-0072b1?logo=IBM&logoColor=grey" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC" target="_blank"><img src="https://img.shields.io/badge/-IBM-0072b1?logo=IBM&logoColor=grey" /></a>
 
 Machine Learning : 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearning.AI-8C1515?logo=Stanford&logoColor=red" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV" target="_blank"><img src="https://img.shields.io/badge/-DeepLearning.AI-8C1515?logo=Stanford&logoColor=red" /></a>
 
 Statistics : 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?logo=CU&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU" target="_blank"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?logo=CU&logoColor=white" /></a>
 
 LLM Bootcamp : 
 
-<a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?logo=AIPlanet&logoColor=white" /></a>
+<a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021" target="_blank"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?logo=AIPlanet&logoColor=white" /></a>
 
 
 # 📊 GitHub Stats:
