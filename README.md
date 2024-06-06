@@ -6,118 +6,49 @@
 
 👋 Hello, I'm Mesut Suhan Şişman
 
-
-
-
-
-
-## About Me!
-
-
-👀 I’m interested in Data Science and Deep Learning.
-
-🧠 I’m currently learning CNN, OpenCV, YOLO etc.
-
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" width="1200" />
 </div>
 
 
+# 💫 About Me:
+👀 I’m interested in Data Science and Deep Learning.<br>🌱  I’m currently learning ANN, CNN, OpenCV, YOLO etc.<br>⚡ I often find myself working on ML projects until the early hours of the morning.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mesut-suhan-sisman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mesutssmn) [![Kaggle](https://img.shields.io/badge/Kaggle-0072b1?logo=kaggle&logoColor=white)](https:///www.kaggle.com/mesutssmn) 
 
-## Tools
-
-
-<a href="https://www.python.org/">
-    <img src="https://www.python.org/static/img/python-logo.png" alt="Python Badge" width = 120px />
-</a>
+# 💻 Tech Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 
 
-<a href="https://www.r-project.org/">
-    <img src="https://www.r-project.org/Rlogo.png" alt="R Badge" width = 70px />
-</a>
-
-
-<a href="https://www.mysql.com">
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Badge" width = 100px />
-</a>
-
-
-<a href="https://www.tensorflow.org/?hl=en">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/tensorflow/images/lockup.svg" alt="TF Badge" width = 150px />
-</a>
-
-
-<a href="https://pandas.pydata.org/docs/index.html">
-    <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="Pandas Badge" width = 100px />
-</a>
-
-
-<a href="https://numpy.org/doc/stable/index.html">
-    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy Badge" width = 100px />
-</a>
-
-
-<a href="https://scikit-learn.org/stable/#">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Sciki-Learn Badge" width = 100px />
-</a>
-
-------------------------------------------------------
-
-
-## Contact links!
-
-<div id="header" align="left">
-  <img src="https://media.istockphoto.com/id/1441307295/photo/customer-contact-us-service-with-mail-email-telephone-icons-on-the-circle-wooden-put-on-the.webp?b=1&s=170667a&w=0&k=20&c=KWhf3x3rS2k-vOkdQZpmqOAhv94-xcWfyQL_gk4xXL4=" 
-      width="210.5" />
-</div>
-
-
-
-<a href="https://www.linkedin.com/in/mesut-suhan-sisman/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/-Kaggle-0072b1?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-
-
-
-
-
-## My Certificates
+# My Certificates
 Data Science : 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC"><img src="https://img.shields.io/badge/-IBM-0072b1?&style=for-the-badge&logo=IBM&logoColor=grey" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC"><img src="https://img.shields.io/badge/-IBM-0072b1?logo=IBM&logoColor=grey" /></a>
 
 Machine Learning : 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearning.AI-8C1515?&style=for-the-badge&logo=Stanford&logoColor=red" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV"><img src="https://img.shields.io/badge/-DeepLearning.AI-8C1515?logo=Stanford&logoColor=red" /></a>
 
 Statistics : 
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?&style=for-the-badge&logo=CU&logoColor=white" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?logo=CU&logoColor=white" /></a>
 
 LLM Bootcamp : 
 
-<a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?&style=for-the-badge&logo=AIPlanet&logoColor=white" /></a>
+<a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?logo=AIPlanet&logoColor=white" /></a>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mesutssmn&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mesutssmn&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Mesutssmn&icon=1&color=0)](https://visitcount.itsvg.in)
 
-
-# Thank you for visiting!
-
-
-
-
-
-
-
-
-
-
-### 🚀 Status : 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mesutssmn&theme=light&bg_color=ADD8E6)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&layout=compact&theme=light&bg_color=ADD8E6)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
