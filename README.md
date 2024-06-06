@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg" width="500"/>
+  <img src="https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg" width="700"/>
 </div>
 
 # Welcome to My World!
