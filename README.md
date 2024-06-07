@@ -7,7 +7,7 @@
 👋 Hello, I'm Mesut Suhan Şişman
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg" width="1200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo5NWpxZDR1dG14YW0ydmhnZXR0N3BqODgyaGNoanQ0dDZtMXU3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp" width="1200" />
 </div>
 
 
