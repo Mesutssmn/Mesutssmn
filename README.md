@@ -21,11 +21,11 @@
 
 
 # My Certificates
-Data Science : 
+Miuul Data Science : 
 
 <a href="https://certificate.miuul.com/mesut_suhan_sisman" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGD3CyRRs_fhA/company-logo_200_200/company-logo_200_200/0/1698658300713?e=2147483647&v=beta&t=H5MeycqlL_dzghrDSnYLLAp5mIcFw36IxvgzVij0S0I" width=30px /></a>
 
-Data Science : 
+IBM Data Science : 
 
 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC" target="_blank"><img src="https://img.shields.io/badge/-IBM-0072b1?logo=IBM&logoColor=grey" /></a>
 
