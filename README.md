@@ -2,7 +2,6 @@
   <img src="https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg" width="700"/>
 </div>
 
-# Hello There!
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo5NWpxZDR1dG14YW0ydmhnZXR0N3BqODgyaGNoanQ0dDZtMXU3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp" width="1200" />
 </div>
