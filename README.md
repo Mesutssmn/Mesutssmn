@@ -10,6 +10,7 @@
     <a href="https://linkedin.com/in/mesut-suhan-sisman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://medium.com/@mesutssmn"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
     <a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/Kaggle-0072b1?logo=kaggle&logoColor=white" alt="Kaggle"></a>
+    <a href="https://github.com/Mesutssmn"><img src="https://img.shields.io/badge/GitHub-181717?style=logo=github&logoColor=white" alt="GitHub"></a>
   </p>
 </div>
 
@@ -17,7 +18,9 @@
 
 ### 💫 About Me
 👀 **Focus:** I am deeply interested in **Machine Learning Systems**, **Computer Vision**, and **Neural Networks**.
+
 🌱 **Current Projects:** Currently building end-to-end **MLOps pipelines** using Docker, MLflow, and FastAPI to move models from local notebooks to production environments.
+
 ⚡ **Goal:** Building scalable, efficient, and data-driven solutions for complex real-world problems.
 
 ---
