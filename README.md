@@ -1,55 +1,63 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg" width="700"/>
-</div>
-
-<div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo5NWpxZDR1dG14YW0ydmhnZXR0N3BqODgyaGNoanQ0dDZtMXU3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp" width="1200" />
 </div>
-👋 I'm Mesut Suhan Şişman
 
+<div align="center">
+  <h1>👋 I'm Mesut Suhan Sisman</h1>
+  <p><strong>Data Scientist | Deep Learning & MLOps Engineer</strong></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/mesut-suhan-sisman"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://medium.com/@mesutssmn"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
+    <a href="https://www.kaggle.com/mesutssmn"><img src="https://img.shields.io/badge/Kaggle-0072b1?logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  </p>
+</div>
 
-# 💫 About Me:
-👀 I’m interested in Data Science and Deep Learning.<br>🌱  I’m currently learning ANN, CNN, OpenCV, YOLO etc.<br>⚡ I often find myself working on ML projects until the early hours of the morning.
+---
 
+### 💫 About Me
+👀 **Focus:** I am deeply interested in **Machine Learning Systems**, **Computer Vision**, and **Neural Networks**.
+🌱 **Current Projects:** Currently building end-to-end **MLOps pipelines** using Docker, MLflow, and FastAPI to move models from local notebooks to production environments.
+⚡ **Goal:** Building scalable, efficient, and data-driven solutions for complex real-world problems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mesut-suhan-sisman) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mesutssmn) [![Kaggle](https://img.shields.io/badge/Kaggle-0072b1?logo=kaggle&logoColor=white)](https:///www.kaggle.com/mesutssmn) 
+---
 
-# 💻 Tech Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+### 💻 Tech Stack
 
+#### 🧠 Machine & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-# My Certificates
-Miuul Data Science Bootcamp : 
+#### ⚙️ MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-<a href="https://certificate.miuul.com/mesut_suhan_sisman" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQGD3CyRRs_fhA/company-logo_200_200/company-logo_200_200/0/1698658300713?e=2147483647&v=beta&t=H5MeycqlL_dzghrDSnYLLAp5mIcFw36IxvgzVij0S0I" width=30px /></a>
+#### 📊 Data Analysis & Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
-IBM Data Science : 
+---
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC" target="_blank"><img src="https://img.shields.io/badge/-IBM-0072b1?logo=IBM&logoColor=grey" /></a>
+### 🏆 Featured Certificates
 
-Machine Learning : 
+| Bootcamp / Specialization | Issued By | Link |
+| :--- | :--- | :---: |
+| **Data Science Bootcamp** | Miuul | [Verify](https://certificate.miuul.com/mesut_suhan_sisman) |
+| **IBM Data Science** | IBM / Coursera | [Verify](https://www.coursera.org/account/accomplishments/specialization/certificate/G78S7B9MNCAC) |
+| **Machine Learning** | DeepLearning.AI | [Verify](https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV) |
+| **LLM Bootcamp** | AI Planet | [Verify](https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021) |
+| **Statistics** | University of Colorado Boulder | [Verify](https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU) |
 
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VMWETUFGC8TV" target="_blank"><img src="https://img.shields.io/badge/-DeepLearning.AI-8C1515?logo=Stanford&logoColor=red" /></a>
+---
 
-Statistics : 
-
-<a href="https://www.coursera.org/account/accomplishments/specialization/5FWKNGBWEVHU" target="_blank"><img src="https://img.shields.io/badge/-ColoradoBoulder-FFD100?logo=CU&logoColor=white" /></a>
-
-LLM Bootcamp : 
-
-<a href="https://aiplanet.com/bootcamp/certificate/verify/09f4f6bb-c917-46c8-9988-81490905c021" target="_blank"><img src="https://img.shields.io/badge/-AIPlanet-4CAF50?logo=AIPlanet&logoColor=white" /></a>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mesutssmn&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mesutssmn&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mesutssmn&theme=gotham&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesutssmn&theme=gotham&layout=compact" alt="Top Languages" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mesutssmn&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=Mesutssmn&icon=1&color=0"><img src="https://visitcount.itsvg.in/api?id=Mesutssmn&icon=1&color=0" alt="Visitor Count"></a>
+</div>
