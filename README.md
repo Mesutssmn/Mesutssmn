@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo5NWpxZDR1dG14YW0ydmhnZXR0N3BqODgyaGNoanQ0dDZtMXU3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.webp" width="1200" />
-</div>
-
 <div align="center">
   <h1>👋 I'm Mesut Suhan Sisman</h1>
   <p><strong>Data Scientist | Deep Learning & MLOps Engineer</strong></p>
